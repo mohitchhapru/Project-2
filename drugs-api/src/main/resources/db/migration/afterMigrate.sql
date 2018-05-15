@@ -1,0 +1,7 @@
+INSERT INTO DRUGS
+	(NAME, QUANT)
+VALUES
+	('DRUG 1', 5),
+	('DRUG 2', 6),
+	('DRUG 3', 7),
+	('DRUG 4', 8);
